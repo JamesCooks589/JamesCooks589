@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/684470f1-301b-4fd3-aef1-6f801eade702.svg)](https://wakatime.com/@684470f1-301b-4fd3-aef1-6f801eade702)
+
 <!--
 **JamesCooks589/JamesCooks589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
