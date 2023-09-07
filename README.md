@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/684470f1-301b-4fd3-aef1-6f801eade702.svg)](https://wakatime.com/@684470f1-301b-4fd3-aef1-6f801eade702)
+<a href="https://wakatime.com/@684470f1-301b-4fd3-aef1-6f801eade702"><img src="https://wakatime.com/badge/user/684470f1-301b-4fd3-aef1-6f801eade702.svg" alt="Total time coded since Aug 23 2023" /></a>
 
 <!--
 **JamesCooks589/JamesCooks589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
